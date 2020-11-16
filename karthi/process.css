@@ -1,0 +1,24 @@
+div{
+	background-color: orange;
+
+}
+.hh{
+	position: relative;
+	height: 200px;
+	width: 100%;
+
+}
+.ipl{
+	position: absolute;
+    background-color: #E91E63;
+    text-align: center;
+    height: 47px;
+    width: 93px;
+    top: 50%;
+    transform: translate(-50px, -50px);
+    left: 50%;}
+.kk{
+	background: blue;
+	right: 20px;
+	z-index: 8;
+}

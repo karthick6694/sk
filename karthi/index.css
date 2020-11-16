@@ -1,0 +1,42 @@
+
+
+table {
+	padding: 1px 1px 1px 1px;
+	border:2px solid yellow;
+	text-align: center;
+	border-collapse: collapse;
+
+} 
+td{
+	padding: 20px 15px 20px 15px;
+	border:2px solid green;
+	text-align: center;
+	font-size: 50px;
+
+}
+tr{
+	color:red;
+}
+.bk{
+	border-left: none;
+	
+}
+.kk{
+	border-right: none;
+	
+}
+.top{
+	border-top: none;
+}
+.bottom{
+	border-bottom: none;
+}
+.left{
+	border-left: none;
+}
+.right{
+	border-right: none;
+}
+.margin{
+	margin: 2px 50px 2px 50px;
+}

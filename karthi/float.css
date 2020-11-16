@@ -1,0 +1,48 @@
+.one{
+	border: 10px solid green;
+	
+	width: 25%;
+	text-align: center;
+	padding: 5px;
+	margin: 3px;
+	float: left;
+
+}
+
+.two{
+	border: 10px solid blue;
+	
+	width: 25%;
+	text-align: center;
+	padding: 5px;
+	margin: 3px;
+	float: left;
+
+
+}
+
+.three{
+	border: 10px solid red;
+	
+	width: 25%;
+	text-align: center;
+	padding: 5px;
+	margin: 3px;
+	float: left;
+
+}
+
+.zero{
+	width: 100%;
+	
+	margin: 50px;
+	text-align: center;
+}
+
+p{
+	    word-break: break-all;
+}
+
+
+
+

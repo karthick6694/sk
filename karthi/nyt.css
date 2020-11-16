@@ -1,0 +1,44 @@
+
+	
+
+
+span{
+	background: #cf3bff;
+    display: inline-block;
+    height: 100px;
+    width:20%;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;
+   
+}
+
+header{
+	background: #27b04b;
+    display: inline-block;
+    height: 100px;
+    width:20%;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;}
+    
+
+	
+
+
+section{
+	background: #00ff4e;
+    display: inline-block;
+    height: 100px;
+    width: 20%;
+    text-align: center;
+    font-size: 50px;
+    padding: 10px;}
+    
+
+
+div{
+	background: black;
+	
+	
+}
